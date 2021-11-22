@@ -17,6 +17,10 @@
   3. Gradients, Drop, Shadows and Blurs
   4. Styling Textfields 
 --------
-## Swift UI Pages 
+## Swift UI  Shapes  
+
 
 <img width="1165" alt="Screen Shot 2021-11-22 at 12 12 07 AM" src="https://user-images.githubusercontent.com/61983873/142810281-154e190a-0bf0-4131-ab62-928e424e2f5a.png">
+
+
+<img width="396" alt="Screen Shot 2021-11-22 at 12 22 26 AM" src="https://user-images.githubusercontent.com/61983873/142810450-8636fba7-3ac2-45cc-a1ac-9e4e89c07d4f.png">
