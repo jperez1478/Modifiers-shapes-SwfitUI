@@ -4,13 +4,27 @@
 //
 //  Created by Jessica Perez on 11/21/21.
 //
+//5 shapes in Swift UI to represent
+
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        //1.Circle (width must be first then height)
+        //modifiers order matters
+        ZStack {
+            Circle()
+                .foregroundColor(.red)
+                .frame(width: 100)
+            
+            Circle()
+                .stroke(Color.black)
+                .frame(width: 10)
+            }
+        
+            
+
     }
 }
 
